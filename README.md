@@ -12,4 +12,4 @@ The Sleep health and lifestye Analysis Project is a data-driven exploration of s
 
 # References:
 Dataset: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
-Blog post: https://medium.com/@kainatnawaz27/unraveling-the-secrets-of-better-sleep-how-your-lifestyle-and-health-impact-your-rest-af66fb2b2240
+           Blog post: https://medium.com/@kainatnawaz27/unraveling-the-secrets-of-better-sleep-how-your-lifestyle-and-health-impact-your-rest-af66fb2b2240
