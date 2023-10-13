@@ -9,3 +9,7 @@ The Sleep health and lifestye Analysis Project is a data-driven exploration of s
 # Fajar Khalid (20SW049)
 # Kainat Nawaz (20SW061)
 # Rukhsar Nisar (20SW137)
+
+# References:
+Dataset: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+Blog post: https://medium.com/@kainatnawaz27/unraveling-the-secrets-of-better-sleep-how-your-lifestyle-and-health-impact-your-rest-af66fb2b2240
